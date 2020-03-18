@@ -10,7 +10,8 @@
 !------------Restricted & URL Redirects------------
 !--ehentai
 |http://85.17.73.31/
-
+||amazonaws.com
+||afwing.info
 ||alien-ufos.com
 ||altrec.com
 ||asianspiss.com
@@ -457,6 +458,7 @@ holz.byethost8.com
 .c-spanvideo.org
 ||c-spanvideo.org
 ||c-est-simple.com
+||collectd.org
 .cacnw.com
 .cactusvpn.com
 ||cactusvpn.com
@@ -1309,6 +1311,9 @@ guancha.org
 ||gzone-anime.info
 
 !----------------Google----------------
+||google.com
+||googleusercontent.com
+||googleapps.com
 ||abc.xyz
 ||agoogleaday.com
 ||chromeexperiments.com
@@ -1890,10 +1895,8 @@ ifjc.org
 imageshack.us
 ||imagevenue.com
 ||imagezilla.net
-!--.imdb.com
-!--|http://imdb.com
-|http://www.imdb.com/name/nm0482730
-|http://www.imdb.com/title/tt0819354/
+||imdb.com
+||icinga.com
 .img.ly
 ||img.ly
 .imkev.com
@@ -1969,6 +1972,8 @@ iyouport.com
 ||j.mp
 blog.jackjia.com
 ||japan-whores.com
+||javlibrary.com
+||jetbrains.com
 .javbus.com
 jbtalks.cc
 jbtalks.com
@@ -2535,6 +2540,7 @@ bbs.ozchinese.com
 .padmanet.com
 page2rss.com
 ||pagodabox.com
+||playno1.com
 
 !--Godaddy Free Hosting
 ||paint.net
@@ -2760,6 +2766,7 @@ nemesis2.qx.net*pages*MyEnTunnel
 qxbbs.org
 
 !--------------------RR--------------------
+||readthedocs.org
 .radicalparty.org
 radioaustralia.net.au
 .radiohilight.net
