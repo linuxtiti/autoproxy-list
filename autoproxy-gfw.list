@@ -10,6 +10,7 @@
 !------------Restricted & URL Redirects------------
 !--ehentai
 |http://85.17.73.31/
+||cloudflare.com
 ||statsigapi.net
 ||bsky.social
 ||bsky.network
